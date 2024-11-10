@@ -17,4 +17,3 @@ function calculate() {
 }
 
 dfdfd;
-zz;
