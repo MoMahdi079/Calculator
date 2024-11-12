@@ -15,18 +15,3 @@ function calculate() {
     display.value = "Error";
   }
 }
-dd;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
-ss;
